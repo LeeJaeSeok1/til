@@ -27,3 +27,4 @@ git 초기화는 처음에 단 한번만 해 주면 됩니다. 작업 내역을 
 push 와 pull 의 개념을 원격 repo와 로컬 repo 를 포함해 그림으로 그려보세요.
 https://www.notion.so/Git-1-3cb2c0d54a9743898d2420d8e075a286
 
+테스트
